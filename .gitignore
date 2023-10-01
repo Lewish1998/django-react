@@ -215,3 +215,7 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+
+# changing files
+music_controller/frontend/static/frontend/main.js
+music_controller/frontend/static/frontend/main.js.LICENSE.txt
