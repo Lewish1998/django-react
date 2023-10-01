@@ -7,5 +7,3 @@ urlpatterns = [
     path('get-room', GetRoom.as_view()),
     path('join-room', JoinRoom.as_view())
 ]
-
-# comment
