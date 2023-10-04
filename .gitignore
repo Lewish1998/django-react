@@ -219,3 +219,6 @@ GitHub.sublime-settings
 # changing files
 music_controller/frontend/static/frontend/main.js
 music_controller/frontend/static/frontend/main.js.LICENSE.txt
+
+# Passwords
+music_controller/spotify/credentials.py

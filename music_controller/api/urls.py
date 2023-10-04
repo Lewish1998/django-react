@@ -10,6 +10,3 @@ urlpatterns = [
     path('leave-room', LeaveRoom.as_view()),
     path('update-room', UpdateRoom.as_view())
 ]
-
-
-# THIS IS A TEST
