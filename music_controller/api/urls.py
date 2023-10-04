@@ -12,4 +12,4 @@ urlpatterns = [
 ]
 
 
-# sqlite3.IntegrityError: NOT NULL constraint failed: api_room.code
+# THIS IS A TEST
