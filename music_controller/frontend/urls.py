@@ -4,9 +4,9 @@ from .views import index
 app_name = 'frontend'
 
 urlpatterns = [
-
-    path('', index, nname=''),
+    path('', index, name=''),
     path('join', index),
     path('create', index),
-    path('room/<str:roomCode>', index),
+    path('room/<str:roomCode>', index)
 ]
+
